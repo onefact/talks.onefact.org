@@ -34,9 +34,12 @@ fonts:
   # mark 'Helvetica Neue' as local font
 ---
 
-# Welcome to Slidev
+# Loving the baseline
 
-Presentation slides for developers
+https://lightning.ai/jaan/studios/loving-the-baseline~01hyqv1syjnnw1ky26kdvz9tcz/
+
+Twitter: @thejaan
+Email: jaan@onefact.org
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
