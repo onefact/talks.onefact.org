@@ -22,6 +22,16 @@ drawings:
 transition: slide-left
 # enable MDC Syntax: https://sli.dev/guide/syntax#mdc-syntax
 mdc: true
+fonts:
+  # basically the text
+  sans: 'Berkeley Mono,Robot'
+  # use with `font-serif` css class from UnoCSS
+  serif: Robot Slab
+  # for code blocks, inline code, etc.
+  mono: Fira Code
+  # like font-family in css, you can use `,` to separate multiple fonts for fallback
+  local: Berkeley Mono
+  # mark 'Helvetica Neue' as local font
 ---
 
 # Welcome to Slidev
