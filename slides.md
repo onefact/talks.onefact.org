@@ -74,6 +74,15 @@ Lightning makes things easier and abstracts the details. In research (or in edge
 - **🔍 Research** - usually need to use algorithms like HyperBand and use fully-sharded data parallel models for best performance. Supported in Ray and SkyPilot, work-in-progress for Lightning.
 - **🔥 Time Horizon** - behavior change is hard. Your future self will thank you but need to learn by experience when to use a shortcut / abstraction versus when to use the details. For me, I need to see the details almost always (not assembly/CUDA regularly though!)
 
+# Incentives
+
+"Writing a training loop is not that hard; why use a library?"
+
+* Amazon Web Services, Google Cloud Platform, Microsoft Azure - all competing for mindshare
+* If you reduce your cognitive load, you give up mindshare in exchange for "efficiency". 
+* It is up to you to decide when this trade-off is worth it.
+* For me, it rarely is: libraries move fast, and I need to understand the details to be able to debug and optimize.
+
 <br>
 <br>
 
