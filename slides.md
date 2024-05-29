@@ -65,17 +65,12 @@ The last comment block of each slide will be treated as slide notes. It will be 
 transition: fade-out
 ---
 
-# What is Slidev?
+# When to use Lightning?
 
-Slidev is a slides maker and presenter designed for developers, consist of the following features
+Lightning makes things easier and abstracts the details. In research (or in edge cases), you might need to go deeper. For example, `torch.compile`, custom metrics, etc.
 
-- 📝 **Text-based** - focus on the content with Markdown, and then style them later
-- 🎨 **Themable** - theme can be shared and used with npm packages
-- 🧑‍💻 **Developer Friendly** - code highlighting, live coding with autocompletion
-- 🤹 **Interactive** - embedding Vue components to enhance your expressions
-- 🎥 **Recording** - built-in recording and camera view
-- 📤 **Portable** - export into PDF, PPTX, PNGs, or even a hostable SPA
-- 🛠 **Hackable** - anything possible on a webpage
+- 📝 **Incentives** - compete with AnyScale, Ray, SkyPilot (multi-cloud, recommended)
+- 🚀 **Risk** - Need to be careful relying on venture capital-backed code (ideal customer profile may be different, may need to pivot, short runway and high return expectations from LPs)
 
 <br>
 <br>
