@@ -75,13 +75,11 @@ Lightning makes things easier and abstracts the details. In research (or in edge
 <br>
 <br>
 
-Read more about [Why Slidev?](https://sli.dev/guide/why)
-
 <!--
 You can have `style` tag in markdown to override the style for the current page.
 Learn more: https://sli.dev/guide/syntax#embedded-styles
 -->
-
+<!-- 
 <style>
 h1 {
   background-color: #2B90B6;
@@ -642,4 +640,4 @@ class: text-center
 
 # Learn More
 
-[Documentations](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/showcases.html)
+[Documentations](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/showcases.html) -->
