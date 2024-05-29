@@ -71,6 +71,7 @@ Lightning makes things easier and abstracts the details. In research (or in edge
 
 - 📝 **Incentives** - compete with AnyScale, Ray, SkyPilot (multi-cloud, recommended)
 - 🚀 **Risk** - Need to be careful relying on venture capital-backed code (ideal customer profile may be different, may need to pivot, short runway and high return expectations from LPs)
+- **🔍 Research** - usually need to use algorithms like HyperBand and use fully-sharded data parallel models for best performance. Supported in Ray and SkyPilot, work-in-progress for Lightning.
 
 <br>
 <br>
