@@ -34,35 +34,9 @@ fonts:
   # mark 'Helvetica Neue' as local font
 ---
 
-# JUST Health Data Labs
+# Loving the baseline
 
-Based on Just v Data Lab bootcamp: https://colab.research.google.com/github/onefact/datathinking.org-codespace/blob/main/notebooks/princeton-university/week-1-visualizing-33-million-phone-calls-in-new-york-city.ipynb
-
--> https://motherduck.com/blog/introducing-column-explorer/
-
-Footnote:
-
-Health data: https://digitalpublicgoods.net/AI-CoP-Discussion-Paper.pdf
-
-https://github.com/DPGAlliance/DPG-Standard/issues/148#issuecomment-1517850203
-
----
-
-Capital flows:
-https://www.are.na/jaan-li/network-9j9au-o8gtc
-
----
-
-https://www.aldipricemap.com/
-
----
-
-# Data centers
-
-https://www.datacentermap.com/
-https://www.dutchdatacenters.nl/en/map/
-https://baxtel.com/map
-https://map.datacente.rs/
+Main demo: https://colab.research.google.com/github/onefact/loving-the-baseline/blob/main/nearest-neighbors.ipynb
 
 Twitter: @thejaan
 Email: jaan@onefact.org
@@ -109,7 +83,7 @@ level: 2
 "Writing a training loop is not that hard; why use a library?"
 
 * Amazon Web Services, Google Cloud Platform, Microsoft Azure - all competing for mindshare
-* If you reduce your cognitive load, you give up mindshare in exchange for "efficiency".
+* If you reduce your cognitive load, you give up mindshare in exchange for "efficiency". 
 * It is up to you to decide when this trade-off is worth it.
 * For me, it rarely is: libraries move fast, and I need to understand the details to be able to debug and optimize.
 
@@ -120,7 +94,7 @@ level: 2
 You can have `style` tag in markdown to override the style for the current page.
 Learn more: https://sli.dev/guide/syntax#embedded-styles
 -->
-<!--
+<!-- 
 <style>
 h1 {
   background-color: #2B90B6;
