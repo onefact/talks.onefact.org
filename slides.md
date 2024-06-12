@@ -36,11 +36,51 @@ fonts:
 
 # Air quotes & acronyms: why trust AI if you can't source it local or see the capital & incentive stacks?
 
-(Especially in health care, where the stakes are high and the incentives are misaligned.)
+(Especially in health care, where the stakes are high and individuals are not risk-bearing entities... yet! Current incentives: misaligned.)
 
-Pref. KPI: QALYs or DALYs / FLOP to allocate global resources, but _not_ in an EA way.
+Pref. KPI: QALYs or DALYs / FLOP to allocate global resources; _not_ in an [EA](https://www.aipanic.news/p/the-665m-shitcoin-donation-to-the) way.
 
 Email: jaan@onefact.org | Twitter: [@thejaan](https://twitter.com/thejaan)
+
+---
+
+## Quick survey
+
+Join at menti.com | use code `2871 8158`
+
+https://www.menti.com/alz2p6gwkwv3
+
+---
+layout: image-left
+
+# the image source
+image: finnsjo_garden.jpg
+
+# a custom class name to the content
+class: my-cool-content-on-the-right
+---
+
+## Whiteboard
+
+How cool you think you are vs how cool you are
+
+Market cap of Microsoft Research vs Wallenberg.com vs venture capital in EU
+
+British Broadcasting Corporation & the [Cotton Capital](https://www.theguardian.com/news/series/cotton-capital) - [Adam Curtis](https://thoughtmaybe.com/cant-get-you-out-of-my-head/) versus a hip replacement (if done too soon, will cost you and health system more!)?
+
+---
+
+## The impossibility of fairness, equity, & equality
+
+Steve Hayes: "_Verbal events are relational operants_"
+
+[source](https://www.revistaperspectivas.org/perspectivas/article/view/708)
+
+[WHO guide in 32 languages](https://www.who.int/publications/i/item/9789240003927)
+
+[Happiness Trap book](https://www.amazon.com/Illustrated-Happiness-Trap-Struggling-Living/dp/1611801575)
+
+[criticism](https://www.sciencedirect.com/science/article/pii/S0005789422001022)
 
 ---
 
@@ -49,8 +89,16 @@ Email: jaan@onefact.org | Twitter: [@thejaan](https://twitter.com/thejaan)
 https://arxiv.org/abs/1609.05807 -
 
 Follow-up work:
+
 https://link.springer.com/article/10.1007/s13347-022-00584-6
+
 https://arxiv.org/pdf/2302.06347
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10148336/
+
+UNDP advising: https://digitalpublicgoods.net/AI-CoP-Discussion-Paper.pdf
+
+opensource.org advising: https://hackmd.io/@opensourceinitiative/osaid-0-0-8
 
 ---
 layout: image-left
@@ -62,9 +110,15 @@ image: bismarck_2022_family_map.png
 class: my-cool-content-on-the-right
 ---
 
-## Wallenberg
+## Wallenberg.com
 
-[source](https://drive.google.com/file/d/1-GwpHS2A6L8Dy3SPaNF0qS19pPzYLZ7_/view?usp=sharing) ([teaser](https://medium.com/@samo.burja/the-family-that-finances-sweden-8441c8a6dc5a))
+"_Esse non videri_"
+
+[quote](https://www.wallenberg.com/sites/default/files/wallenberg_about_us_english_lowres_0.pdf)
+
+[source](https://drive.google.com/file/d/1-GwpHS2A6L8Dy3SPaNF0qS19pPzYLZ7_/view?usp=sharing)
+
+([teaser](https://medium.com/@samo.burja/the-family-that-finances-sweden-8441c8a6dc5a))
 
 ---
 
@@ -92,43 +146,69 @@ class: my-cool-content-on-the-right
 
 Spiderweb Capitalism: How Global Elites Exploit Frontier Markets - Kimberly Kay Hoang ([Princeton Press](https://press.princeton.edu/books/hardcover/9780691229119/spiderweb-capitalism)
 
+[Context](https://www.theguardian.com/world/2016/jul/28/1mdb-inside-story-worlds-biggest-financial-scandal-malaysia)
+
 [Figures](https://www.are.na/jaan-li/network-9j9au-o8gtc)
 
 [via Ethnographic Café](https://www.ethnographiccafe.org/events)
 
 ---
-Based on Just v Data Lab bootcamp: https://colab.research.google.com/github/onefact/datathinking.org-codespace/blob/main/notebooks/princeton-university/week-1-visualizing-33-million-phone-calls-in-new-york-city.ipynb
 
--> https://motherduck.com/blog/introducing-column-explorer/
+## Food
 
-Footnote:
+https://poly.cam/capture/7AC16C10-AEAC-46E5-A9CD-280721EA08E3
 
-Health data: https://digitalpublicgoods.net/AI-CoP-Discussion-Paper.pdf
+[referral link](https://bookshop.org/p/books/10-04-a-novel-ben-lerner/8458698)
 
-https://github.com/DPGAlliance/DPG-Standard/issues/148#issuecomment-1517850203
+---
+layout: image-left
+
+# the image source
+image: https://www.payless.health/payless.health-linknyc-campaign.jpg
+
+# a custom class name to the content
+class: my-cool-content-on-the-right
+---
+
+## Engineering behavior change
+
+4000+ hospitals' price sheets: https://data.payless.health/#hospital_price_transparency/
+
+Data model: https://github.com/OHDSI/CommonDataModel/tree/payless_health
+
+AI: http://arxiv.org/abs/1904.05342
+
+~20% of GDP: (~$5T)
 
 ---
 
-https://thoughtmaybe.com/cant-get-you-out-of-my-head/
+## Examples
 
-British Broadcasting - Adam Curtis or hip replacement?
+https://colab.research.google.com/github/onefact/datathinking.org-codespace/blob/main/notebooks/princeton-university/week-1-visualizing-33-million-phone-calls-in-new-york-city.ipynb
+
+-> https://motherduck.com/blog/introducing-column-explorer/
+
+---
+
+## Fun
+
+Major & minor arcana ([Tarot de Marseilles](http://unicode.org/wg2/docs/n4089.pdf) / [Adventure Time illustrator Jesse Moynihan](http://jessemoynihan.com/wp/wp-content/uploads/2020/07/tarot-color-script.jpg)) for the NAICS classification codes for industry:
+
+https://www.dropbox.com/scl/fo/4suf7iqgo6hr7j4dgq6nk/AKPJzxk-f45vOzY4zYILqds?rlkey=0g7gg18x8u65p9hp7y0kmhxga&dl=0
+
+---
+
+## Homework
+
+1. Read [worksheet]( https://drive.google.com/file/d/1wFyY8rk4m6JruyzH1KZPuYTWlzML0Aqk/view?usp=sharing) on large language models (LLMs) from [Ivory Field](https://www.ivoryfield.co/), experts in generative AI syllabus design.
+2. Log in to both claude.ai and chatgpt.com and submit one message and ensure you can read the LLM output.
+3. Pack your laptop for tomorrow.
+4. Write down the exact time and where you intend complete this homework tonight or tomorrow morning (should take 5 minutes).
 
 ---
 
 baby g
 
---
-
-what's fun
-
---
-
-Capital flows:
-https://www.are.na/jaan-li/network-9j9au-o8gtc
-
----
-
-https://www.aldipricemap.com/
 
 ---
 
