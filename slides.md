@@ -232,6 +232,16 @@ https://www.dropbox.com/scl/fo/4suf7iqgo6hr7j4dgq6nk/AKPJzxk-f45vOzY4zYILqds?rlk
 
 ---
 
+## Fun: try analyzing public patent data
+
+https://colab.research.google.com/github/onefact/just-health-data/blob/main/notebooks/loading_united_states_patent_data.ipynb
+
+Homework: redo this for EPO data (email me if you don't have free access or need 3.5TB of storage on our AWS S3 bucket :)
+
+Previous example in health care: https://colab.research.google.com/github/onefact/loving-the-baseline/blob/main/nearest-neighbors.ipynb
+
+---
+
 ## Homework
 
 1. Read [worksheet]( https://drive.google.com/file/d/1wFyY8rk4m6JruyzH1KZPuYTWlzML0Aqk/view?usp=sharing) on large language models (LLMs) from [Ivory Field](https://www.ivoryfield.co/), experts in generative AI syllabus design.
