@@ -62,11 +62,14 @@ class: my-cool-content-on-the-right
 
 ## Whiteboard
 
-How cool you think you are vs how cool you are
+* How cool you think you are vs how cool you are (re: [sauna](https://maps.app.goo.gl/W8sYw73uwUXtDd8b8))
 
-Market cap of Microsoft Research vs Wallenberg.com vs venture capital in EU
+* Cool stuff: anarchist cookbook, [Justin Bieber slowed 800x](https://youtu.be/QspuCt1FM9M?si=vGfpWsKOQMzU5Hhx
+), [Nelly Arabic remix](https://on.soundcloud.com/LZ9NbPUgYDYf4pSA9)
 
-British Broadcasting Corporation & the [Cotton Capital](https://www.theguardian.com/news/series/cotton-capital) - [Adam Curtis](https://thoughtmaybe.com/cant-get-you-out-of-my-head/) versus a hip replacement (if done too soon, will cost you and health system more!)?
+* Market cap of Microsoft Research vs Wallenberg.com vs venture capital in EU
+
+* British Broadcasting Corporation & the [Cotton Capital](https://www.theguardian.com/news/series/cotton-capital) - [Adam Curtis](https://thoughtmaybe.com/cant-get-you-out-of-my-head/) versus a hip replacement (if done too soon, will cost you and health system more!)?
 
 ---
 
@@ -128,6 +131,14 @@ class: my-cool-content-on-the-right
 
 ---
 
+## Health care
+
+Renting to own vs renting to live:
+
+[Insulin prices c.a. 2024-06-11](https://docs.google.com/spreadsheets/d/1FjGKFozlZKvatzX0RL3roEp7wISGT47D/edit?usp=sharing&ouid=105141280187611346936&rtpof=true&sd=true)
+
+---
+
 ## Education
 
 <Tweet id="1784980896853979356" />
@@ -180,6 +191,8 @@ AI: http://arxiv.org/abs/1904.05342
 
 ~20% of GDP: (~$5T)
 
+So far helped allocate $1B of capital ([story](https://www.wsj.com/health/healthcare/new-york-presbyterian-hospital-payment-union-3b2100f5) of the $25M bill that resulted from a market maker trying to change insurance products influenced by our open source tools)
+
 ---
 
 ## Examples
@@ -207,33 +220,6 @@ https://www.dropbox.com/scl/fo/4suf7iqgo6hr7j4dgq6nk/AKPJzxk-f45vOzY4zYILqds?rlk
 
 ---
 
-baby g
-
-
----
-
-https://motherduckcommunity.slack.com/archives/C059BKPAPC5/p1717864545260129
-
-```
-Hi Jaan:
-There's a lot to discuss here, however generally I agree with the possibility of misaligned incentives. Cloud data companies know there a gravitational force to data due to joins, and many of the easy paths bias toward entirely remote data, transforms, compute. Even the asymmetry of AWS egress/ingress costs shows this bias. To be fair this is often efficient, minimizing data transport. However I think you can see the misalignment in the customer pressure to get data lakes as first class peers to internal tables, and in the workflow of ad hoc notebooks, where roundtripping to local is a common practice for it's flexibility.
-We think there's a lot of potential to making it much easier to mix and match local and remote sources in one query, and in easier roundtripping. It certainly makes it easier for my ETL jobs to INSERT INTO instead of always dropping into S3, for example.
-Let me discuss internally and come up with more specific response with examples. It's a busy week here with our GA launch, but maybe this is worth a call with you to brainstorm a bit more.
-```
-
----
-
-
-# Data centers
-
-https://www.datacentermap.com/
-https://www.dutchdatacenters.nl/en/map/
-https://baxtel.com/map
-https://map.datacente.rs/
-
-Twitter: @thejaan
-Email: jaan@onefact.org
-
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
     Press Space for next page <carbon:arrow-right class="inline"/>
@@ -249,60 +235,6 @@ Email: jaan@onefact.org
     <carbon-logo-github />
   </a>
 </div>
-
-<!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
--->
-
-<!-- make a page break next -->
----
-
-
-# When to use Lightning?
-
-Lightning makes things easier and abstracts the details. In research (or in edge cases), you might need to go deeper. For example, `torch.compile`, custom metrics, etc.
-
-- 📝 **Incentives** - compete with AnyScale, Ray, SkyPilot (multi-cloud, recommended)
-- 🚀 **Risk** - Need to be careful relying on venture capital-backed code (ideal customer profile may be different, may need to pivot, short runway and high return expectations from LPs)
-- **🔍 Research** - usually need to use algorithms like HyperBand and use fully-sharded data parallel models for best performance. Supported in Ray and SkyPilot, work-in-progress for Lightning.
-- **🔥 Time Horizon** - behavior change is hard. Your future self will thank you but need to learn by experience when to use a shortcut / abstraction versus when to use the details. For me, I need to see the details almost always (not assembly/CUDA regularly though!)
-
----
-transition: slide-up
-level: 2
----
-# Incentives
-
-"Writing a training loop is not that hard; why use a library?"
-
-* Amazon Web Services, Google Cloud Platform, Microsoft Azure - all competing for mindshare
-* If you reduce your cognitive load, you give up mindshare in exchange for "efficiency".
-* It is up to you to decide when this trade-off is worth it.
-* For me, it rarely is: libraries move fast, and I need to understand the details to be able to debug and optimize.
-
-<br>
-<br>
-
-<!--
-You can have `style` tag in markdown to override the style for the current page.
-Learn more: https://sli.dev/guide/syntax#embedded-styles
--->
-<!--
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
-}
-</style>
-
-<!--
-Here is another comment.
--->
 
 ---
 transition: slide-up
