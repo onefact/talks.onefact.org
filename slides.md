@@ -34,14 +34,63 @@ fonts:
   # mark 'Helvetica Neue' as local font
 ---
 
-# Air quotes & acronyms: why trust AI if you can't source it locally?
+# Air quotes & acronyms: why trust AI if you can't source it local or see the capital & incentive stacks?
 
-Revealing hidden preferences of patient capital allocation via intellectual property rights and incentives analysis.
+(Especially in health care, where the stakes are high and the incentives are misaligned.)
 
-(My preferred KPI: QALYs or DALYs / FLOP to allocate global resources, but _not_ in an EA way.)
+Pref. KPI: QALYs or DALYs / FLOP to allocate global resources, but _not_ in an EA way.
+
+Email: jaan@onefact.org | Twitter: [@thejaan](https://twitter.com/thejaan)
 
 ---
 
+## The impossibility of fairness, equity, & equality
+
+https://arxiv.org/abs/1609.05807 -
+
+Follow-up work:
+https://link.springer.com/article/10.1007/s13347-022-00584-6
+https://arxiv.org/pdf/2302.06347
+
+---
+
+## Wallenberg
+
+
+
+[source](https://drive.google.com/file/d/1-GwpHS2A6L8Dy3SPaNF0qS19pPzYLZ7_/view?usp=sharing) ([teaser](https://medium.com/@samo.burja/the-family-that-finances-sweden-8441c8a6dc5a))
+
+---
+
+## Health care
+
+<Tweet id="1797627683809239548" />
+
+---
+
+## Education
+
+<Tweet id="1784980896853979356" />
+
+---
+layout: image-left
+
+# the image source
+image: /images/hoang_2023_power_map.png
+
+# a custom class name to the content
+class: my-cool-content-on-the-right
+---
+
+## Finance
+
+Spiderweb Capitalism: How Global Elites Exploit Frontier Markets - Kimberly Kay Hoang ([Princeton Press](https://press.princeton.edu/books/hardcover/9780691229119/spiderweb-capitalism)
+
+[Figures](https://www.are.na/jaan-li/network-9j9au-o8gtc)
+
+[via Ethnographic Café](https://www.ethnographiccafe.org/events)
+
+---
 Based on Just v Data Lab bootcamp: https://colab.research.google.com/github/onefact/datathinking.org-codespace/blob/main/notebooks/princeton-university/week-1-visualizing-33-million-phone-calls-in-new-york-city.ipynb
 
 -> https://motherduck.com/blog/introducing-column-explorer/
