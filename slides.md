@@ -53,10 +53,16 @@ https://link.springer.com/article/10.1007/s13347-022-00584-6
 https://arxiv.org/pdf/2302.06347
 
 ---
+layout: image-left
+
+# the image source
+image: bismarck_2022_family_map.png
+
+# a custom class name to the content
+class: my-cool-content-on-the-right
+---
 
 ## Wallenberg
-
-
 
 [source](https://drive.google.com/file/d/1-GwpHS2A6L8Dy3SPaNF0qS19pPzYLZ7_/view?usp=sharing) ([teaser](https://medium.com/@samo.burja/the-family-that-finances-sweden-8441c8a6dc5a))
 
@@ -76,7 +82,7 @@ https://arxiv.org/pdf/2302.06347
 layout: image-left
 
 # the image source
-image: /images/hoang_2023_power_map.png
+image: hoang_2023_power_map.png
 
 # a custom class name to the content
 class: my-cool-content-on-the-right
