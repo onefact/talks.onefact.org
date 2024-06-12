@@ -71,6 +71,18 @@ class: my-cool-content-on-the-right
 
 * British Broadcasting Corporation & the [Cotton Capital](https://www.theguardian.com/news/series/cotton-capital) - [Adam Curtis](https://thoughtmaybe.com/cant-get-you-out-of-my-head/) versus a hip replacement (if done too soon, will cost you and health system more!)?
 
+* Baby G
+
+* Data center constraints & electricity grid constraints
+
+https://www.datacentermap.com/
+
+https://www.dutchdatacenters.nl/en/map/
+
+https://baxtel.com/map
+
+https://map.datacente.rs/
+
 ---
 
 ## The impossibility of fairness, equity, & equality
@@ -201,6 +213,15 @@ https://colab.research.google.com/github/onefact/datathinking.org-codespace/blob
 
 -> https://motherduck.com/blog/introducing-column-explorer/
 
+https://motherduckcommunity.slack.com/archives/C059BKPAPC5/p1717864545260129
+
+```
+Hi Jaan:
+There's a lot to discuss here, however generally I agree with the possibility of misaligned incentives. Cloud data companies know there a gravitational force to data due to joins, and many of the easy paths bias toward entirely remote data, transforms, compute. Even the asymmetry of AWS egress/ingress costs shows this bias. To be fair this is often efficient, minimizing data transport. However I think you can see the misalignment in the customer pressure to get data lakes as first class peers to internal tables, and in the workflow of ad hoc notebooks, where roundtripping to local is a common practice for it's flexibility.
+We think there's a lot of potential to making it much easier to mix and match local and remote sources in one query, and in easier roundtripping. It certainly makes it easier for my ETL jobs to INSERT INTO instead of always dropping into S3, for example.
+Let me discuss internally and come up with more specific response with examples. It's a busy week here with our GA launch, but maybe this is worth a call with you to brainstorm a bit more.
+```
+
 ---
 
 ## Fun
@@ -217,6 +238,8 @@ https://www.dropbox.com/scl/fo/4suf7iqgo6hr7j4dgq6nk/AKPJzxk-f45vOzY4zYILqds?rlk
 2. Log in to both claude.ai and chatgpt.com and submit one message and ensure you can read the LLM output.
 3. Pack your laptop for tomorrow.
 4. Write down the exact time and where you intend complete this homework tonight or tomorrow morning (should take 5 minutes).
+
+Bonus: use an LLM of your choice to copy and paste the Mermaid-syntax code into https://mermaid.live/ and generate a diagram of incentives for a process where you experience maximum frustration or lack of agency (lived experience, personal, systemic, sector-based, acronyms or not, etc). Make sure all cash flows, sponsors, stakeholders are represented and revise the prompt until it captures your lived experience. Ask me or an LLM for help if blocked.
 
 ---
 
