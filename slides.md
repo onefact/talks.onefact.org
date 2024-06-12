@@ -34,7 +34,13 @@ fonts:
   # mark 'Helvetica Neue' as local font
 ---
 
-# JUST Health Data Labs
+# Air quotes & acronyms: why trust AI if you can't source it locally?
+
+Revealing hidden preferences of patient capital allocation via intellectual property rights and incentives analysis.
+
+(My preferred KPI: QALYs or DALYs / FLOP to allocate global resources, but _not_ in an EA way.)
+
+---
 
 Based on Just v Data Lab bootcamp: https://colab.research.google.com/github/onefact/datathinking.org-codespace/blob/main/notebooks/princeton-university/week-1-visualizing-33-million-phone-calls-in-new-york-city.ipynb
 
@@ -47,6 +53,20 @@ Health data: https://digitalpublicgoods.net/AI-CoP-Discussion-Paper.pdf
 https://github.com/DPGAlliance/DPG-Standard/issues/148#issuecomment-1517850203
 
 ---
+
+https://thoughtmaybe.com/cant-get-you-out-of-my-head/
+
+British Broadcasting - Adam Curtis or hip replacement?
+
+---
+
+baby g
+
+--
+
+what's fun
+
+--
 
 Capital flows:
 https://www.are.na/jaan-li/network-9j9au-o8gtc
