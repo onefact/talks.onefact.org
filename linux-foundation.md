@@ -44,6 +44,8 @@ https://www.figma.com/slides/a7mcpAmv2qTomxt8NK2WfQ/Linux-Foundation-Artificial-
 
 Email: jaan@onefact.org | Twitter: [@thejaan](https://twitter.com/thejaan)
 
+`<3`
+
 ---
 
 <div class="pt-12">
